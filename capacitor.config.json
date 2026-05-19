@@ -1,0 +1,6 @@
+{
+  "appId": "com.xmrig.cloudapp",
+  "appName": "XMRig Cloud",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
